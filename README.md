@@ -13,12 +13,19 @@ COMO USAR: Abra o arquivo DividendExecute em Python, instale as bibliotecas caso
 Execute o código e aguarde o download dos dados das ações, após baixar todos os dados um DataFrame irá ser printado.
 
 LEGENDAS:
-TICKER: Código de negoiciação da ação na B3.
+
+TICKER: Código de negociação da ação na B3.
+
 DATA: Data do último fechamento de mercado.
+
 PREÇO ATUAL: Preço atual da ação com base na data de último fechamento.
+
 PREÇO TETO: Preço máximo a se pagar na ação com base no dividendo mínimo alvo determinado (padrão 6%).
+
 MARGEM DE SEGURANÇA: Diferença percentual entre o Preço atual e o Preço teto da ação.
+
 DY_Médio: Dividend Yield médio dos últimos 6 anos distribuídos pela empresa.
+
 DY% Atual: Dividend Yield cálculado com base nos proventos pagos nos últimos 12 meses.
 
 DIVIDEND YIELD = Lucro percentual financeiro pago ao acionista em forma de proventos distríbuidos.

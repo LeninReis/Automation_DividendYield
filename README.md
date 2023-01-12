@@ -9,7 +9,6 @@ A função desse código é automatizar a obtenção de dados das ações brasil
 pagos pelas empresas, a matemática financeira utilizada é inspirada em Décio Bazin, que consiste em determinar um preço teto 
 a se pagar pela ação com base nos proventos distribuídos nos últimos anos.
 
-Automação de obtenção de dados e estipulação do preço teto das ações brasileiras com base na distribuição de proventos pagos aos acionistas.
 COMO USAR: Abra o arquivo DividendExecute em Python, instale as bibliotecas caso não possua (Incluso no código).
 Execute o código e aguarde o download dos dados das ações, após baixar todos os dados um DataFrame irá ser printado.
 
